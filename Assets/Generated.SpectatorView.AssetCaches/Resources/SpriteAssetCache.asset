@@ -1,0 +1,1497 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c29111bdcab2ead418210130d901092a, type: 3}
+  m_Name: SpriteAssetCache
+  m_EditorClassIdentifier: 
+  assets:
+  - Name: AppBarAdjust
+    Ids:
+    - guid:
+        m_storage: 20f25674-b951-2834-f889-38d45ed495d7
+      fileIdentifier: 21300000
+      name: AppBarAdjust
+  - Name: AppBarClose
+    Ids:
+    - guid:
+        m_storage: 20f25674-b951-2834-f889-38d45ed495d7
+      fileIdentifier: 21300002
+      name: AppBarClose
+  - Name: AppBarDone
+    Ids:
+    - guid:
+        m_storage: 20f25674-b951-2834-f889-38d45ed495d7
+      fileIdentifier: 21300022
+      name: AppBarDone
+  - Name: AppBarHide
+    Ids:
+    - guid:
+        m_storage: 20f25674-b951-2834-f889-38d45ed495d7
+      fileIdentifier: 21300004
+      name: AppBarHide
+  - Name: AppBarShow
+    Ids:
+    - guid:
+        m_storage: 20f25674-b951-2834-f889-38d45ed495d7
+      fileIdentifier: 21300006
+      name: AppBarShow
+  - Name: Background
+    Ids:
+    - guid:
+        m_storage: 00000000-0000-0000-f000-000000000000
+      fileIdentifier: 10907
+      name: Background
+  - Name: BlueButton
+    Ids:
+    - guid:
+        m_storage: 229c3211-a796-6124-ca2b-aa412fae0b0f
+      fileIdentifier: 21300000
+      name: BlueButton
+  - Name: ButtonFollowMe
+    Ids:
+    - guid:
+        m_storage: 20f25674-b951-2834-f889-38d45ed495d7
+      fileIdentifier: 21300008
+      name: ButtonFollowMe
+  - Name: ButtonHandJoint
+    Ids:
+    - guid:
+        m_storage: 20f25674-b951-2834-f889-38d45ed495d7
+      fileIdentifier: 21300010
+      name: ButtonHandJoint
+  - Name: ButtonHandMesh
+    Ids:
+    - guid:
+        m_storage: 20f25674-b951-2834-f889-38d45ed495d7
+      fileIdentifier: 21300012
+      name: ButtonHandMesh
+  - Name: ButtonHandRay
+    Ids:
+    - guid:
+        m_storage: 20f25674-b951-2834-f889-38d45ed495d7
+      fileIdentifier: 21300014
+      name: ButtonHandRay
+  - Name: ButtonHome
+    Ids:
+    - guid:
+        m_storage: 20f25674-b951-2834-f889-38d45ed495d7
+      fileIdentifier: 21300016
+      name: ButtonHome
+  - Name: ButtonPin
+    Ids:
+    - guid:
+        m_storage: 20f25674-b951-2834-f889-38d45ed495d7
+      fileIdentifier: 21300018
+      name: ButtonPin
+  - Name: ButtonProfiler
+    Ids:
+    - guid:
+        m_storage: 20f25674-b951-2834-f889-38d45ed495d7
+      fileIdentifier: 21300020
+      name: ButtonProfiler
+  - Name: buttonssosigninemail
+    Ids:
+    - guid:
+        m_storage: d24e7e0b-75e1-a244-bb96-87d6fd4315ef
+      fileIdentifier: 21300000
+      name: buttonssosigninemail
+  - Name: buttonssosigninemail@2x
+    Ids:
+    - guid:
+        m_storage: ddf2e76e-8a1f-88f4-6ae1-e42277850b48
+      fileIdentifier: 21300000
+      name: buttonssosigninemail@2x
+  - Name: buttonssosigningoogle
+    Ids:
+    - guid:
+        m_storage: f09eae8c-0ea0-4254-b90c-5386a034a225
+      fileIdentifier: 21300000
+      name: buttonssosigningoogle
+  - Name: buttonssosigninunity
+    Ids:
+    - guid:
+        m_storage: f9161c6c-9e06-dc44-5ada-3ee16d991f90
+      fileIdentifier: 21300000
+      name: buttonssosigninunity
+  - Name: Checkmark
+    Ids:
+    - guid:
+        m_storage: 00000000-0000-0000-f000-000000000000
+      fileIdentifier: 10901
+      name: Checkmark
+  - Name: Circle
+    Ids:
+    - guid:
+        m_storage: 7e29bd78-484d-e854-79d1-437e5727d5a9
+      fileIdentifier: 21300000
+      name: Circle
+  - Name: CircleIcon
+    Ids:
+    - guid:
+        m_storage: 4dc2af51-2aa3-3704-19cc-d40d0abd485b
+      fileIdentifier: 21300000
+      name: CircleIcon
+  - Name: d_buttonssosigninemail
+    Ids:
+    - guid:
+        m_storage: 3086d66a-5633-17b4-0a20-a20da2c64ac0
+      fileIdentifier: 21300000
+      name: d_buttonssosigninemail
+  - Name: d_buttonssosigninemail@2x
+    Ids:
+    - guid:
+        m_storage: 144aa746-18b8-5974-a9a5-0f612c2fa8fd
+      fileIdentifier: 21300000
+      name: d_buttonssosigninemail@2x
+  - Name: d_cloudbuho
+    Ids:
+    - guid:
+        m_storage: e5600378-dd76-1e64-d942-3790c482bf36
+      fileIdentifier: 21300000
+      name: d_cloudbuho
+  - Name: d_cloudbuhochristmas
+    Ids:
+    - guid:
+        m_storage: 70632ddf-e8e7-1b04-b8f9-0ef7e29a9e98
+      fileIdentifier: 21300000
+      name: d_cloudbuhochristmas
+  - Name: d_cloudbuhoshe
+    Ids:
+    - guid:
+        m_storage: dae33700-bd23-f764-09a8-0bf78fdb8a42
+      fileIdentifier: 21300000
+      name: d_cloudbuhoshe
+  - Name: d_cloudbuhoshechristmas
+    Ids:
+    - guid:
+        m_storage: 9c0d6ec7-06e0-1ce4-48ae-a81584af092b
+      fileIdentifier: 21300000
+      name: d_cloudbuhoshechristmas
+  - Name: d_colorbuho
+    Ids:
+    - guid:
+        m_storage: 3a0c527d-7f89-0d64-a9b5-6b086e6e766a
+      fileIdentifier: 21300000
+      name: d_colorbuho
+  - Name: d_colorbuhochristmas
+    Ids:
+    - guid:
+        m_storage: fd098fb4-cf57-bad4-1970-1c802e442b7e
+      fileIdentifier: 21300000
+      name: d_colorbuhochristmas
+  - Name: d_colorbuhoshe
+    Ids:
+    - guid:
+        m_storage: a04ecc9d-5e12-d5d4-4907-7414eb86635e
+      fileIdentifier: 21300000
+      name: d_colorbuhoshe
+  - Name: d_colorbuhoshechristmas
+    Ids:
+    - guid:
+        m_storage: ec03f793-7986-8c64-2b48-ae5ddc821b6d
+      fileIdentifier: 21300000
+      name: d_colorbuhoshechristmas
+  - Name: d_expertbuho
+    Ids:
+    - guid:
+        m_storage: 13e7e6fe-43a8-aa04-9bcd-610bbc1f5ff8
+      fileIdentifier: 21300000
+      name: d_expertbuho
+  - Name: d_expertbuhochristmas
+    Ids:
+    - guid:
+        m_storage: c887ed2a-931c-2904-0bc5-44cd8c546e9f
+      fileIdentifier: 21300000
+      name: d_expertbuhochristmas
+  - Name: d_expertbuhoshe
+    Ids:
+    - guid:
+        m_storage: 8325d4ef-0a6e-b3d4-3952-aff8a06d9f45
+      fileIdentifier: 21300000
+      name: d_expertbuhoshe
+  - Name: d_expertbuhoshechristmas
+    Ids:
+    - guid:
+        m_storage: 372e7b39-fc8f-3454-9ac2-5d8757965a2c
+      fileIdentifier: 21300000
+      name: d_expertbuhoshechristmas
+  - Name: d_genericbuho1
+    Ids:
+    - guid:
+        m_storage: 43ad51e0-4349-1b94-d8f6-c62d55ac5ede
+      fileIdentifier: 21300000
+      name: d_genericbuho1
+  - Name: d_genericbuho2
+    Ids:
+    - guid:
+        m_storage: 0f061b4b-d027-5bc4-eb60-f2af31e7375a
+      fileIdentifier: 21300000
+      name: d_genericbuho2
+  - Name: d_genericbuho3
+    Ids:
+    - guid:
+        m_storage: 9e947449-4461-bd04-8803-b48e391ef0f6
+      fileIdentifier: 21300000
+      name: d_genericbuho3
+  - Name: d_genericbuhochristmas1
+    Ids:
+    - guid:
+        m_storage: e36d1a38-d7aa-3094-09e8-0bf66a089330
+      fileIdentifier: 21300000
+      name: d_genericbuhochristmas1
+  - Name: d_genericbuhochristmas2
+    Ids:
+    - guid:
+        m_storage: 5955491d-c8dc-ecb4-a993-d9a008cf65a7
+      fileIdentifier: 21300000
+      name: d_genericbuhochristmas2
+  - Name: d_genericbuhochristmas3
+    Ids:
+    - guid:
+        m_storage: 6fac4e39-926f-d9c4-ca2b-a4416160a857
+      fileIdentifier: 21300000
+      name: d_genericbuhochristmas3
+  - Name: d_genericbuhoshe1
+    Ids:
+    - guid:
+        m_storage: f2901efd-8bb1-6bc4-08ad-37f017fbf9bc
+      fileIdentifier: 21300000
+      name: d_genericbuhoshe1
+  - Name: d_genericbuhoshe2
+    Ids:
+    - guid:
+        m_storage: 17035c20-4825-f634-0a25-2046ab6476fd
+      fileIdentifier: 21300000
+      name: d_genericbuhoshe2
+  - Name: d_genericbuhoshe3
+    Ids:
+    - guid:
+        m_storage: 9bb60d9b-0987-c374-7b57-516cc172d0c7
+      fileIdentifier: 21300000
+      name: d_genericbuhoshe3
+  - Name: d_genericbuhoshechristmas1
+    Ids:
+    - guid:
+        m_storage: d98fbe17-966d-8ef4-49b2-5b99024bf36f
+      fileIdentifier: 21300000
+      name: d_genericbuhoshechristmas1
+  - Name: d_genericbuhoshechristmas2
+    Ids:
+    - guid:
+        m_storage: 7fd3cda1-4282-bb74-29b8-eeb6c121e5bb
+      fileIdentifier: 21300000
+      name: d_genericbuhoshechristmas2
+  - Name: d_genericbuhoshechristmas3
+    Ids:
+    - guid:
+        m_storage: f8c9467a-8925-8034-4bb6-97526dac0d13
+      fileIdentifier: 21300000
+      name: d_genericbuhoshechristmas3
+  - Name: d_iconaddedlocal
+    Ids:
+    - guid:
+        m_storage: 0c6a2a64-ca9f-9c94-6a7d-bbd1674cf5bd
+      fileIdentifier: 21300000
+      name: d_iconaddedlocal
+  - Name: d_iconaddedlocal@2x
+    Ids:
+    - guid:
+        m_storage: 02800fb9-cff1-4da4-7a04-572790384d8b
+      fileIdentifier: 21300000
+      name: d_iconaddedlocal@2x
+  - Name: d_iconaddedoverlay
+    Ids:
+    - guid:
+        m_storage: 73d124bf-77e4-63c4-5942-d14136745d9f
+      fileIdentifier: 21300000
+      name: d_iconaddedoverlay
+  - Name: d_iconaddedoverlay@2x
+    Ids:
+    - guid:
+        m_storage: a6fbd5a1-81bc-51e4-2a61-a73fe8d727c8
+      fileIdentifier: 21300000
+      name: d_iconaddedoverlay@2x
+  - Name: d_iconbranch
+    Ids:
+    - guid:
+        m_storage: 612c5e16-6a12-1e34-49da-d067fbdc37a4
+      fileIdentifier: 21300000
+      name: d_iconbranch
+  - Name: d_iconbranch@2x
+    Ids:
+    - guid:
+        m_storage: 874d8401-331e-de14-087e-8d8d486ddda6
+      fileIdentifier: 21300000
+      name: d_iconbranch@2x
+  - Name: d_iconcheckedoutlocaloverlay
+    Ids:
+    - guid:
+        m_storage: bb1928af-f4fd-4cf4-4af1-f629dc14ef9b
+      fileIdentifier: 21300000
+      name: d_iconcheckedoutlocaloverlay
+  - Name: d_iconcheckedoutlocaloverlay@2x
+    Ids:
+    - guid:
+        m_storage: 8d98ab61-68c3-e914-3933-9f1908b8fe97
+      fileIdentifier: 21300000
+      name: d_iconcheckedoutlocaloverlay@2x
+  - Name: d_iconconflicted
+    Ids:
+    - guid:
+        m_storage: 881798b7-7426-a8f4-7b53-3dcc4767e9e5
+      fileIdentifier: 21300000
+      name: d_iconconflicted
+  - Name: d_iconconflicted@2x
+    Ids:
+    - guid:
+        m_storage: 65f0e363-b74c-f584-5ab8-c3fbc14f39ac
+      fileIdentifier: 21300000
+      name: d_iconconflicted@2x
+  - Name: d_iconconflictresolvedoverlay
+    Ids:
+    - guid:
+        m_storage: 056ee72c-467a-4e24-d875-41d42839ca72
+      fileIdentifier: 21300000
+      name: d_iconconflictresolvedoverlay
+  - Name: d_iconconflictresolvedoverlay@2x
+    Ids:
+    - guid:
+        m_storage: 4a231ba0-e81e-6384-9a8f-985c228e8acd
+      fileIdentifier: 21300000
+      name: d_iconconflictresolvedoverlay@2x
+  - Name: d_icondeletedlocaloverlay
+    Ids:
+    - guid:
+        m_storage: 4da274d9-70a8-2a94-3ae3-979e7833f3dd
+      fileIdentifier: 21300000
+      name: d_icondeletedlocaloverlay
+  - Name: d_icondeletedlocaloverlay@2x
+    Ids:
+    - guid:
+        m_storage: 92b204cc-a460-3744-4ab1-8ba6701f86f7
+      fileIdentifier: 21300000
+      name: d_icondeletedlocaloverlay@2x
+  - Name: d_icondeletedremote
+    Ids:
+    - guid:
+        m_storage: 23e66f72-64c7-4424-8893-42127f229577
+      fileIdentifier: 21300000
+      name: d_icondeletedremote
+  - Name: d_icondeletedremote@2x
+    Ids:
+    - guid:
+        m_storage: 626b9cdd-b290-49e4-cac5-0cd87b419945
+      fileIdentifier: 21300000
+      name: d_icondeletedremote@2x
+  - Name: d_icondeletedremoteoverlay
+    Ids:
+    - guid:
+        m_storage: 3de8a063-4e55-df84-99c8-8204001cb0dd
+      fileIdentifier: 21300000
+      name: d_icondeletedremoteoverlay
+  - Name: d_icondeletedremoteoverlay@2x
+    Ids:
+    - guid:
+        m_storage: 2cfbf661-9eb0-4754-5a42-5e8a31732c83
+      fileIdentifier: 21300000
+      name: d_icondeletedremoteoverlay@2x
+  - Name: d_iconemptygravatar
+    Ids:
+    - guid:
+        m_storage: 9aebd705-574f-9e64-2aef-1e5f59b3e4d8
+      fileIdentifier: 21300000
+      name: d_iconemptygravatar
+  - Name: d_iconemptygravatar@2x
+    Ids:
+    - guid:
+        m_storage: 0ac55f9f-886d-8274-08c1-02bdf33c5ff7
+      fileIdentifier: 21300000
+      name: d_iconemptygravatar@2x
+  - Name: d_iconlockedlocaloverlay
+    Ids:
+    - guid:
+        m_storage: 71c45f80-bffd-b914-5ad2-c456254c862e
+      fileIdentifier: 21300000
+      name: d_iconlockedlocaloverlay
+  - Name: d_iconlockedlocaloverlay@2x
+    Ids:
+    - guid:
+        m_storage: ae53a788-4da9-0e94-eb5d-feab594b746c
+      fileIdentifier: 21300000
+      name: d_iconlockedlocaloverlay@2x
+  - Name: d_iconlockedremoteoverlay
+    Ids:
+    - guid:
+        m_storage: 1046ed65-e6aa-ffb4-3913-78f6d08d6c14
+      fileIdentifier: 21300000
+      name: d_iconlockedremoteoverlay
+  - Name: d_iconlockedremoteoverlay@2x
+    Ids:
+    - guid:
+        m_storage: 2bb4e96f-5d0b-02c4-6893-2d665a015c54
+      fileIdentifier: 21300000
+      name: d_iconlockedremoteoverlay@2x
+  - Name: d_iconmergeconflictoverlay
+    Ids:
+    - guid:
+        m_storage: e82b4b13-83f6-6ad4-68b7-3c88a7688e03
+      fileIdentifier: 21300000
+      name: d_iconmergeconflictoverlay
+  - Name: d_iconmergeconflictoverlay@2x
+    Ids:
+    - guid:
+        m_storage: 2e2ab640-fc13-2eb4-c83f-1c586c46d610
+      fileIdentifier: 21300000
+      name: d_iconmergeconflictoverlay@2x
+  - Name: d_iconoutofsync
+    Ids:
+    - guid:
+        m_storage: 0e80bd0b-4a81-96f4-6acf-73711b9505ec
+      fileIdentifier: 21300000
+      name: d_iconoutofsync
+  - Name: d_iconoutofsync@2x
+    Ids:
+    - guid:
+        m_storage: f82dfc5f-c3c5-a8f4-080a-3550427019c8
+      fileIdentifier: 21300000
+      name: d_iconoutofsync@2x
+  - Name: d_iconoutofsyncoverlay
+    Ids:
+    - guid:
+        m_storage: dc633de6-e6e7-4154-48c7-568418239a9d
+      fileIdentifier: 21300000
+      name: d_iconoutofsyncoverlay
+  - Name: d_iconoutofsyncoverlay@2x
+    Ids:
+    - guid:
+        m_storage: 4d7e6e57-0e9d-65a4-c9a9-94783a0652e2
+      fileIdentifier: 21300000
+      name: d_iconoutofsyncoverlay@2x
+  - Name: d_iconplasticnotifyconflict
+    Ids:
+    - guid:
+        m_storage: 51582ae5-ea51-fa14-9967-91a550f89473
+      fileIdentifier: 21300000
+      name: d_iconplasticnotifyconflict
+  - Name: d_iconplasticnotifyconflict@2x
+    Ids:
+    - guid:
+        m_storage: 23743f0c-0ed1-e654-6808-a5d645c2a6a5
+      fileIdentifier: 21300000
+      name: d_iconplasticnotifyconflict@2x
+  - Name: d_iconplasticnotifyincoming
+    Ids:
+    - guid:
+        m_storage: f31d2c85-5644-aad4-cb20-30bce12859f6
+      fileIdentifier: 21300000
+      name: d_iconplasticnotifyincoming
+  - Name: d_iconplasticnotifyincoming@2x
+    Ids:
+    - guid:
+        m_storage: c5fc116b-3271-b594-7808-130b2212cd60
+      fileIdentifier: 21300000
+      name: d_iconplasticnotifyincoming@2x
+  - Name: d_iconplasticview
+    Ids:
+    - guid:
+        m_storage: 519d97e7-45e5-5f04-1b60-9f3666cbc037
+      fileIdentifier: 21300000
+      name: d_iconplasticview
+  - Name: d_iconplasticview@2x
+    Ids:
+    - guid:
+        m_storage: 3168140d-6f40-9d04-4844-7f18568d9482
+      fileIdentifier: 21300000
+      name: d_iconplasticview@2x
+  - Name: d_iconplasticviewnotify
+    Ids:
+    - guid:
+        m_storage: df7dbac9-9fae-5444-f92b-497c52f0ecfb
+      fileIdentifier: 21300000
+      name: d_iconplasticviewnotify
+  - Name: d_iconplasticviewnotify@2x
+    Ids:
+    - guid:
+        m_storage: 64eb0648-ca0d-1194-4a95-17d8662508fd
+      fileIdentifier: 21300000
+      name: d_iconplasticviewnotify@2x
+  - Name: d_iconprivateoverlay
+    Ids:
+    - guid:
+        m_storage: 059fb536-7594-a334-3814-dc25ace454b3
+      fileIdentifier: 21300000
+      name: d_iconprivateoverlay
+  - Name: d_iconprivateoverlay@2x
+    Ids:
+    - guid:
+        m_storage: 7f854f49-0da2-4e54-f9e8-383e446b5d81
+      fileIdentifier: 21300000
+      name: d_iconprivateoverlay@2x
+  - Name: d_iconundo
+    Ids:
+    - guid:
+        m_storage: 691dc543-ff5b-9ca4-4bf8-46657ba04161
+      fileIdentifier: 21300000
+      name: d_iconundo
+  - Name: d_iconundo@2x
+    Ids:
+    - guid:
+        m_storage: 6d608817-4bb9-06b4-9ad8-428526ee337b
+      fileIdentifier: 21300000
+      name: d_iconundo@2x
+  - Name: d_ignoredoverlay
+    Ids:
+    - guid:
+        m_storage: 0f5597de-928b-a654-7895-c4cdb9fa4185
+      fileIdentifier: 21300000
+      name: d_ignoredoverlay
+  - Name: d_ignoredoverlay@2x
+    Ids:
+    - guid:
+        m_storage: 68fafd0a-2acc-3774-9884-18f657bf7b68
+      fileIdentifier: 21300000
+      name: d_ignoredoverlay@2x
+  - Name: d_loading
+    Ids:
+    - guid:
+        m_storage: d58e94bf-b1ba-c774-dbb8-ca9c2597ef2e
+      fileIdentifier: 21300000
+      name: d_loading
+  - Name: d_loading@2x
+    Ids:
+    - guid:
+        m_storage: 7ee48c5f-ba49-1964-9a8a-6094cbead669
+      fileIdentifier: 21300000
+      name: d_loading@2x
+  - Name: d_step1
+    Ids:
+    - guid:
+        m_storage: 38236a82-ff44-aaa4-b972-248479d5f970
+      fileIdentifier: 21300000
+      name: d_step1
+  - Name: d_step1@2x
+    Ids:
+    - guid:
+        m_storage: c8a69ecd-f54a-c8e4-b873-466605de27ff
+      fileIdentifier: 21300000
+      name: d_step1@2x
+  - Name: d_step2
+    Ids:
+    - guid:
+        m_storage: 897c3a3f-5c40-3834-5a71-43573bbb4a40
+      fileIdentifier: 21300000
+      name: d_step2
+  - Name: d_step2@2x
+    Ids:
+    - guid:
+        m_storage: cdb88fdb-0cf4-6b24-4a66-7edaff21c7df
+      fileIdentifier: 21300000
+      name: d_step2@2x
+  - Name: d_step3
+    Ids:
+    - guid:
+        m_storage: 46930b20-180b-59e4-6b73-494adf53abbb
+      fileIdentifier: 21300000
+      name: d_step3
+  - Name: d_step3@2x
+    Ids:
+    - guid:
+        m_storage: c9ed6d6e-a2f9-6574-09bf-a068d4846139
+      fileIdentifier: 21300000
+      name: d_step3@2x
+  - Name: d_stepok
+    Ids:
+    - guid:
+        m_storage: be423a54-b981-d384-28de-82ad12534629
+      fileIdentifier: 21300000
+      name: d_stepok
+  - Name: d_stepok@2x
+    Ids:
+    - guid:
+        m_storage: 3494dc95-6dfd-7174-abc0-7060940a2848
+      fileIdentifier: 21300000
+      name: d_stepok@2x
+  - Name: d_stevejobsbuho
+    Ids:
+    - guid:
+        m_storage: e92527f6-d0fe-4534-2ab5-42b47346d45f
+      fileIdentifier: 21300000
+      name: d_stevejobsbuho
+  - Name: d_stevejobsbuhochristmas
+    Ids:
+    - guid:
+        m_storage: 08c91a76-77e6-6844-281a-99aaf6ea36f1
+      fileIdentifier: 21300000
+      name: d_stevejobsbuhochristmas
+  - Name: d_stevejobsbuhoshe
+    Ids:
+    - guid:
+        m_storage: 56e456ab-0f7f-79a4-dbab-cc9079c49a94
+      fileIdentifier: 21300000
+      name: d_stevejobsbuhoshe
+  - Name: d_stevejobsbuhoshechristmas
+    Ids:
+    - guid:
+        m_storage: f008857e-434b-98b4-eaab-da1fd6af3059
+      fileIdentifier: 21300000
+      name: d_stevejobsbuhoshechristmas
+  - Name: DropdownArrow
+    Ids:
+    - guid:
+        m_storage: 00000000-0000-0000-f000-000000000000
+      fileIdentifier: 10915
+      name: DropdownArrow
+  - Name: Generic_controller_black_scaled
+    Ids:
+    - guid:
+        m_storage: 01b6830a-93a3-6904-ab13-9325358f2d35
+      fileIdentifier: 21300000
+      name: Generic_controller_black_scaled
+  - Name: Generic_controller_white_scaled
+    Ids:
+    - guid:
+        m_storage: d7776e47-f36f-9954-58a9-2021b99f44d5
+      fileIdentifier: 21300000
+      name: Generic_controller_white_scaled
+  - Name: iconadded
+    Ids:
+    - guid:
+        m_storage: 1196e728-cbc6-c254-29f2-5431acabb4d1
+      fileIdentifier: 21300000
+      name: iconadded
+  - Name: iconaddedlocal
+    Ids:
+    - guid:
+        m_storage: 9a1ab8af-8c44-6204-e989-a90f18305caf
+      fileIdentifier: 21300000
+      name: iconaddedlocal
+  - Name: iconaddedlocal@2x
+    Ids:
+    - guid:
+        m_storage: a67b58d6-cddc-d434-5b1e-001340de5a76
+      fileIdentifier: 21300000
+      name: iconaddedlocal@2x
+  - Name: iconaddedoverlay
+    Ids:
+    - guid:
+        m_storage: 5978a510-e241-e1a4-1b7e-a0db0b64f333
+      fileIdentifier: 21300000
+      name: iconaddedoverlay
+  - Name: iconaddedoverlay@2x
+    Ids:
+    - guid:
+        m_storage: 74ef721f-ef79-c444-89d4-e3edb0ab0c01
+      fileIdentifier: 21300000
+      name: iconaddedoverlay@2x
+  - Name: iconbranch
+    Ids:
+    - guid:
+        m_storage: a6219d44-b6fc-9104-49f7-c3fee45db5c5
+      fileIdentifier: 21300000
+      name: iconbranch
+  - Name: iconbranch@2x
+    Ids:
+    - guid:
+        m_storage: e45389a8-a970-44d4-caf4-08f252370632
+      fileIdentifier: 21300000
+      name: iconbranch@2x
+  - Name: iconchanged
+    Ids:
+    - guid:
+        m_storage: 6719b9ff-2633-3564-181b-5328d934035c
+      fileIdentifier: 21300000
+      name: iconchanged
+  - Name: iconcheckedoutlocaloverlay
+    Ids:
+    - guid:
+        m_storage: 4bd47f86-a00d-d2b4-b8ab-20a11de165f6
+      fileIdentifier: 21300000
+      name: iconcheckedoutlocaloverlay
+  - Name: iconcheckedoutlocaloverlay@2x
+    Ids:
+    - guid:
+        m_storage: 39990349-58d5-4364-da38-0a8839a11050
+      fileIdentifier: 21300000
+      name: iconcheckedoutlocaloverlay@2x
+  - Name: iconclosebutton
+    Ids:
+    - guid:
+        m_storage: 13527793-8841-04b4-6b74-46fd7464c3ed
+      fileIdentifier: 21300000
+      name: iconclosebutton
+  - Name: iconconflicted
+    Ids:
+    - guid:
+        m_storage: d1c88f14-2eee-55b4-eb2b-2cfd7b3624ce
+      fileIdentifier: 21300000
+      name: iconconflicted
+  - Name: iconconflicted@2x
+    Ids:
+    - guid:
+        m_storage: f95f697d-66d2-3844-6b1a-b717def09945
+      fileIdentifier: 21300000
+      name: iconconflicted@2x
+  - Name: iconconflictresolvedoverlay
+    Ids:
+    - guid:
+        m_storage: 0a78c2b0-19ae-1e54-48f5-0d83adcfd965
+      fileIdentifier: 21300000
+      name: iconconflictresolvedoverlay
+  - Name: iconconflictresolvedoverlay@2x
+    Ids:
+    - guid:
+        m_storage: 309b1d5a-294f-d6c4-3ae9-cf77656c1852
+      fileIdentifier: 21300000
+      name: iconconflictresolvedoverlay@2x
+  - Name: icondeleted
+    Ids:
+    - guid:
+        m_storage: 77a39e87-3655-d3c4-b93d-0b7696397b83
+      fileIdentifier: 21300000
+      name: icondeleted
+  - Name: icondeletedlocaloverlay
+    Ids:
+    - guid:
+        m_storage: e251dfd2-4b56-10d4-d8ea-65a237cc9d97
+      fileIdentifier: 21300000
+      name: icondeletedlocaloverlay
+  - Name: icondeletedlocaloverlay@2x
+    Ids:
+    - guid:
+        m_storage: a3e491f9-9ea3-ad74-f873-1ca93e84c497
+      fileIdentifier: 21300000
+      name: icondeletedlocaloverlay@2x
+  - Name: icondeletedremote
+    Ids:
+    - guid:
+        m_storage: b85a4b2e-c643-3d04-8956-12d791edc260
+      fileIdentifier: 21300000
+      name: icondeletedremote
+  - Name: icondeletedremote@2x
+    Ids:
+    - guid:
+        m_storage: 70e3ce8a-d01f-3924-8a3e-a97a35bcf238
+      fileIdentifier: 21300000
+      name: icondeletedremote@2x
+  - Name: icondeletedremoteoverlay
+    Ids:
+    - guid:
+        m_storage: cc3a9f4e-8631-4f74-6aa1-a97505d6323b
+      fileIdentifier: 21300000
+      name: icondeletedremoteoverlay
+  - Name: icondeletedremoteoverlay@2x
+    Ids:
+    - guid:
+        m_storage: d5c3277b-1dba-d944-8b46-c2ec87a2cef8
+      fileIdentifier: 21300000
+      name: icondeletedremoteoverlay@2x
+  - Name: iconemptygravatar
+    Ids:
+    - guid:
+        m_storage: 91976e8b-9ce0-f034-1838-727acd55621c
+      fileIdentifier: 21300000
+      name: iconemptygravatar
+  - Name: iconemptygravatar@2x
+    Ids:
+    - guid:
+        m_storage: da545229-eea3-6164-d8b8-cba2f75a1143
+      fileIdentifier: 21300000
+      name: iconemptygravatar@2x
+  - Name: iconfschanged
+    Ids:
+    - guid:
+        m_storage: 42d45b97-0736-18b4-2bfc-fc22740c4bc7
+      fileIdentifier: 21300000
+      name: iconfschanged
+  - Name: IconHandActiveLeft
+    Ids:
+    - guid:
+        m_storage: a1bfd276-cecd-2504-aa94-f334850481d9
+      fileIdentifier: 21300000
+      name: IconHandActiveLeft
+  - Name: IconHandActiveRight
+    Ids:
+    - guid:
+        m_storage: c1ec574b-fa2b-e924-783d-e54868caee68
+      fileIdentifier: 21300000
+      name: IconHandActiveRight
+  - Name: IconHandIdleLeft
+    Ids:
+    - guid:
+        m_storage: 4162248f-738e-54a4-38ae-5c54e18f0784
+      fileIdentifier: 21300000
+      name: IconHandIdleLeft
+  - Name: IconHandIdleRight
+    Ids:
+    - guid:
+        m_storage: 84bd1d5b-692e-ba54-5b14-5e3ef5333c38
+      fileIdentifier: 21300000
+      name: IconHandIdleRight
+  - Name: IconHandUntrackedLeft
+    Ids:
+    - guid:
+        m_storage: f87b5f94-4e86-30e4-0874-8d05d33bed27
+      fileIdentifier: 21300000
+      name: IconHandUntrackedLeft
+  - Name: IconHandUntrackedRight
+    Ids:
+    - guid:
+        m_storage: e516b67f-b96d-9af4-b833-78670e1d4058
+      fileIdentifier: 21300000
+      name: IconHandUntrackedRight
+  - Name: iconlockedlocaloverlay
+    Ids:
+    - guid:
+        m_storage: 3eb463f6-82a3-2ab4-8b98-a68d3361e524
+      fileIdentifier: 21300000
+      name: iconlockedlocaloverlay
+  - Name: iconlockedlocaloverlay@2x
+    Ids:
+    - guid:
+        m_storage: b528c1b3-3a65-cf94-ea74-f830b54c9acb
+      fileIdentifier: 21300000
+      name: iconlockedlocaloverlay@2x
+  - Name: iconlockedremoteoverlay
+    Ids:
+    - guid:
+        m_storage: e78d7bb1-9d72-cdd4-7860-0b30412eecc9
+      fileIdentifier: 21300000
+      name: iconlockedremoteoverlay
+  - Name: iconlockedremoteoverlay@2x
+    Ids:
+    - guid:
+        m_storage: f73a7d87-58d7-be04-588b-15637d94b5a8
+      fileIdentifier: 21300000
+      name: iconlockedremoteoverlay@2x
+  - Name: iconmergecategory
+    Ids:
+    - guid:
+        m_storage: 3aeafd5c-8484-2b44-e985-f9cc2bd28e74
+      fileIdentifier: 21300000
+      name: iconmergecategory
+  - Name: iconmergeconflict
+    Ids:
+    - guid:
+        m_storage: 3ebdd5b3-c161-fc34-3a4b-bc3ea42da8ca
+      fileIdentifier: 21300000
+      name: iconmergeconflict
+  - Name: iconmergeconflictoverlay
+    Ids:
+    - guid:
+        m_storage: 0397bb00-c9c1-58d4-fa9c-e21ec390489d
+      fileIdentifier: 21300000
+      name: iconmergeconflictoverlay
+  - Name: iconmergeconflictoverlay@2x
+    Ids:
+    - guid:
+        m_storage: 619a2a07-8bfb-5c84-494b-1e0b64f983a3
+      fileIdentifier: 21300000
+      name: iconmergeconflictoverlay@2x
+  - Name: iconmerged
+    Ids:
+    - guid:
+        m_storage: 36b376ce-e845-9d34-e8ae-fb062d29bcf2
+      fileIdentifier: 21300000
+      name: iconmerged
+  - Name: iconmergelink
+    Ids:
+    - guid:
+        m_storage: 120bf54d-ff78-5a04-29b0-68b814e9c12a
+      fileIdentifier: 21300000
+      name: iconmergelink
+  - Name: iconmoved
+    Ids:
+    - guid:
+        m_storage: 8a6cca56-e2b6-3344-eb47-69cd92d93ffb
+      fileIdentifier: 21300000
+      name: iconmoved
+  - Name: iconoutofsync
+    Ids:
+    - guid:
+        m_storage: 636d03a8-834e-3ed4-cac3-a1cb4b82deaf
+      fileIdentifier: 21300000
+      name: iconoutofsync
+  - Name: iconoutofsync@2x
+    Ids:
+    - guid:
+        m_storage: d7094718-bdac-0224-28dd-29244922d06b
+      fileIdentifier: 21300000
+      name: iconoutofsync@2x
+  - Name: iconoutofsyncoverlay
+    Ids:
+    - guid:
+        m_storage: 1079db1f-4b37-7fb4-5aa2-45fd791993f6
+      fileIdentifier: 21300000
+      name: iconoutofsyncoverlay
+  - Name: iconoutofsyncoverlay@2x
+    Ids:
+    - guid:
+        m_storage: 3728580c-1491-81a4-4b35-9e89f6edacae
+      fileIdentifier: 21300000
+      name: iconoutofsyncoverlay@2x
+  - Name: iconplastic
+    Ids:
+    - guid:
+        m_storage: 3042b019-b052-942a-1baf-7aa49d7ca6bb
+      fileIdentifier: 21300000
+      name: iconplastic
+  - Name: iconplasticnotifyconflict
+    Ids:
+    - guid:
+        m_storage: a916ed68-19ef-d014-588f-58e3cfc48196
+      fileIdentifier: 21300000
+      name: iconplasticnotifyconflict
+  - Name: iconplasticnotifyconflict@2x
+    Ids:
+    - guid:
+        m_storage: 6e0a5482-6ffc-3ee4-6b0a-a3e1c1575a69
+      fileIdentifier: 21300000
+      name: iconplasticnotifyconflict@2x
+  - Name: iconplasticnotifyincoming
+    Ids:
+    - guid:
+        m_storage: 1e6c9635-b80f-9734-88d8-335a081c905f
+      fileIdentifier: 21300000
+      name: iconplasticnotifyincoming
+  - Name: iconplasticnotifyincoming@2x
+    Ids:
+    - guid:
+        m_storage: ae869fe6-797f-4454-cbbf-417d87ff637c
+      fileIdentifier: 21300000
+      name: iconplasticnotifyincoming@2x
+  - Name: iconplasticview
+    Ids:
+    - guid:
+        m_storage: dcb2ee37-925b-97e4-38ae-244996d81a55
+      fileIdentifier: 21300000
+      name: iconplasticview
+  - Name: iconplasticview@2x
+    Ids:
+    - guid:
+        m_storage: 97a4e2b6-ae08-b114-0a5b-a9e22953e029
+      fileIdentifier: 21300000
+      name: iconplasticview@2x
+  - Name: iconplasticviewnotify
+    Ids:
+    - guid:
+        m_storage: fcbb76d5-83fe-7ee4-e80e-7e47c0593c4a
+      fileIdentifier: 21300000
+      name: iconplasticviewnotify
+  - Name: iconplasticviewnotify@2x
+    Ids:
+    - guid:
+        m_storage: 0a4da12f-f51b-d834-9821-6f698c7f20fa
+      fileIdentifier: 21300000
+      name: iconplasticviewnotify@2x
+  - Name: iconpressedclosebutton
+    Ids:
+    - guid:
+        m_storage: 94fe8686-2011-9564-f947-4f40cd6145aa
+      fileIdentifier: 21300000
+      name: iconpressedclosebutton
+  - Name: iconprivateoverlay
+    Ids:
+    - guid:
+        m_storage: 9d6e2d7c-e655-65b4-a93d-524fe7a05d0b
+      fileIdentifier: 21300000
+      name: iconprivateoverlay
+  - Name: iconprivateoverlay@2x
+    Ids:
+    - guid:
+        m_storage: 40685941-c136-1aa4-a957-b61174bce3f6
+      fileIdentifier: 21300000
+      name: iconprivateoverlay@2x
+  - Name: iconrepository
+    Ids:
+    - guid:
+        m_storage: ed64f3a1-7f2e-de64-6be2-1ed6edc9161a
+      fileIdentifier: 21300000
+      name: iconrepository
+  - Name: iconundo
+    Ids:
+    - guid:
+        m_storage: 98773313-eabe-3554-3bfd-bf542ccea271
+      fileIdentifier: 21300000
+      name: iconundo
+  - Name: iconundo@2x
+    Ids:
+    - guid:
+        m_storage: 0dfbb2b6-ddcd-d254-da80-e3418498b3a6
+      fileIdentifier: 21300000
+      name: iconundo@2x
+  - Name: ignored
+    Ids:
+    - guid:
+        m_storage: 595bc97b-c8e1-e0b4-6bd4-c2148ba3723a
+      fileIdentifier: 21300000
+      name: ignored
+  - Name: ignoredoverlay
+    Ids:
+    - guid:
+        m_storage: 767ce9b1-aa9d-e874-7a4c-2ffc8b3dd7ad
+      fileIdentifier: 21300000
+      name: ignoredoverlay
+  - Name: ignoredoverlay@2x
+    Ids:
+    - guid:
+        m_storage: 999d04c0-ea94-ccc4-1b3d-80788160695b
+      fileIdentifier: 21300000
+      name: ignoredoverlay@2x
+  - Name: InputFieldBackground
+    Ids:
+    - guid:
+        m_storage: 00000000-0000-0000-f000-000000000000
+      fileIdentifier: 10911
+      name: InputFieldBackground
+  - Name: KeyboardKeyGlyphs_Backspace
+    Ids:
+    - guid:
+        m_storage: 5eb0b332-d494-ca84-d9c3-8cf77ba0e12d
+      fileIdentifier: 21300000
+      name: KeyboardKeyGlyphs_Backspace
+  - Name: KeyboardKeyGlyphs_Close
+    Ids:
+    - guid:
+        m_storage: 7029cbbb-ce5f-0ac4-dbc4-e93267bfddf4
+      fileIdentifier: 21300000
+      name: KeyboardKeyGlyphs_Close
+  - Name: KeyboardKeyGlyphs_Dictation
+    Ids:
+    - guid:
+        m_storage: b575d7b7-d874-61b4-ea99-65b50e367249
+      fileIdentifier: 21300000
+      name: KeyboardKeyGlyphs_Dictation
+  - Name: KeyboardKeyGlyphs_Down
+    Ids:
+    - guid:
+        m_storage: 161fc587-2226-6014-49a8-143014ece469
+      fileIdentifier: 21300000
+      name: KeyboardKeyGlyphs_Down
+  - Name: KeyboardKeyGlyphs_Left
+    Ids:
+    - guid:
+        m_storage: ec8b4073-237c-9724-ba84-22f71fda3694
+      fileIdentifier: 21300000
+      name: KeyboardKeyGlyphs_Left
+  - Name: KeyboardKeyGlyphs_Right
+    Ids:
+    - guid:
+        m_storage: 11e4524f-21fc-6434-abbb-ba83d70d0040
+      fileIdentifier: 21300000
+      name: KeyboardKeyGlyphs_Right
+  - Name: KeyboardKeyGlyphs_Shift_Symbols
+    Ids:
+    - guid:
+        m_storage: 1dde69cc-d958-3fa4-f8df-ab2b590119ee
+      fileIdentifier: 21300000
+      name: KeyboardKeyGlyphs_Shift_Symbols
+  - Name: KeyboardKeyGlyphs_UnShift_Symbols
+    Ids:
+    - guid:
+        m_storage: f6f44dc3-b387-f9d4-8bca-aee0038969c4
+      fileIdentifier: 21300000
+      name: KeyboardKeyGlyphs_UnShift_Symbols
+  - Name: KeyboardKeyGlyphs_Up
+    Ids:
+    - guid:
+        m_storage: 73830216-a21a-45e4-9959-8b2624ef723e
+      fileIdentifier: 21300000
+      name: KeyboardKeyGlyphs_Up
+  - Name: Knob
+    Ids:
+    - guid:
+        m_storage: 00000000-0000-0000-f000-000000000000
+      fileIdentifier: 10913
+      name: Knob
+  - Name: loading
+    Ids:
+    - guid:
+        m_storage: c6b1bcaa-3f47-6714-1acd-747384dbb276
+      fileIdentifier: 21300000
+      name: loading
+  - Name: loading@2x
+    Ids:
+    - guid:
+        m_storage: 5dbc069e-b79b-d4d4-3840-847264d6d956
+      fileIdentifier: 21300000
+      name: loading@2x
+  - Name: MotionController_left_black
+    Ids:
+    - guid:
+        m_storage: a7d0f692-b982-a754-b8ae-2353d5e88d64
+      fileIdentifier: 21300000
+      name: MotionController_left_black
+  - Name: MotionController_left_black_scaled
+    Ids:
+    - guid:
+        m_storage: 03b731c9-9d54-dfb4-abde-4d7d1b1b9199
+      fileIdentifier: 21300000
+      name: MotionController_left_black_scaled
+  - Name: MotionController_left_white
+    Ids:
+    - guid:
+        m_storage: 78864818-2fdb-a814-396e-5258870a63f0
+      fileIdentifier: 21300000
+      name: MotionController_left_white
+  - Name: MotionController_left_white_scaled
+    Ids:
+    - guid:
+        m_storage: 2a95b12b-f068-e064-9889-84ff0723e935
+      fileIdentifier: 21300000
+      name: MotionController_left_white_scaled
+  - Name: MotionController_right_black
+    Ids:
+    - guid:
+        m_storage: 94c407cc-a908-01e4-7aea-d1757ce0ae05
+      fileIdentifier: 21300000
+      name: MotionController_right_black
+  - Name: MotionController_right_black_scaled
+    Ids:
+    - guid:
+        m_storage: 8e8fc4c5-d417-b754-280c-d920d79a5e7f
+      fileIdentifier: 21300000
+      name: MotionController_right_black_scaled
+  - Name: MotionController_right_white
+    Ids:
+    - guid:
+        m_storage: 6588fe84-4902-0f74-488b-8b667ce2f435
+      fileIdentifier: 21300000
+      name: MotionController_right_white
+  - Name: MotionController_right_white_scaled
+    Ids:
+    - guid:
+        m_storage: 417cf16d-d689-5c44-f821-49efa15170d5
+      fileIdentifier: 21300000
+      name: MotionController_right_white_scaled
+  - Name: MouseCursor
+    Ids:
+    - guid:
+        m_storage: 3038942a-8632-b664-795d-a551e3a65b25
+      fileIdentifier: 21300000
+      name: MouseCursor
+  - Name: MRTK_Logo_Black
+    Ids:
+    - guid:
+        m_storage: c2c00ef2-1cc4-4bcf-a096-95879e0ebecd
+      fileIdentifier: 21300000
+      name: MRTK_Logo_Black
+  - Name: MRTK_Logo_White
+    Ids:
+    - guid:
+        m_storage: 84643a20-fa6b-4fa7-969e-f84ad2e40992
+      fileIdentifier: 21300000
+      name: MRTK_Logo_White
+  - Name: notondisk
+    Ids:
+    - guid:
+        m_storage: b205f4b2-8f59-dda4-9af4-58b35d8a3ff3
+      fileIdentifier: 21300000
+      name: notondisk
+  - Name: OculusControllersTouch_left_black
+    Ids:
+    - guid:
+        m_storage: f2237692-de96-24a4-692e-4b0440c5f476
+      fileIdentifier: 21300000
+      name: OculusControllersTouch_left_black
+  - Name: OculusControllersTouch_left_black_scaled
+    Ids:
+    - guid:
+        m_storage: d651fc00-b471-cfe4-4834-a222e9433461
+      fileIdentifier: 21300000
+      name: OculusControllersTouch_left_black_scaled
+  - Name: OculusControllersTouch_left_white
+    Ids:
+    - guid:
+        m_storage: 68157127-a155-0704-596f-2546ea8893d9
+      fileIdentifier: 21300000
+      name: OculusControllersTouch_left_white
+  - Name: OculusControllersTouch_left_white_scaled
+    Ids:
+    - guid:
+        m_storage: 8485eaad-dfc8-4964-7a3b-00d6006e6bc8
+      fileIdentifier: 21300000
+      name: OculusControllersTouch_left_white_scaled
+  - Name: OculusControllersTouch_right_black
+    Ids:
+    - guid:
+        m_storage: 0b431d73-cc83-7214-fbf6-7cab3535f975
+      fileIdentifier: 21300000
+      name: OculusControllersTouch_right_black
+  - Name: OculusControllersTouch_right_black_scaled
+    Ids:
+    - guid:
+        m_storage: 0ea40b84-2547-d784-082e-bf2698d3f08b
+      fileIdentifier: 21300000
+      name: OculusControllersTouch_right_black_scaled
+  - Name: OculusControllersTouch_right_white
+    Ids:
+    - guid:
+        m_storage: 28ea40d5-0737-d3c4-7af0-18f7f3ea24ee
+      fileIdentifier: 21300000
+      name: OculusControllersTouch_right_white
+  - Name: OculusControllersTouch_right_white_scaled
+    Ids:
+    - guid:
+        m_storage: 2f3bf31b-da2b-d844-39e4-77aac79990ca
+      fileIdentifier: 21300000
+      name: OculusControllersTouch_right_white_scaled
+  - Name: OculusRemoteController_black
+    Ids:
+    - guid:
+        m_storage: 2b90b3ff-0e9f-24a4-3a1f-8ffacaa12ca7
+      fileIdentifier: 21300000
+      name: OculusRemoteController_black
+  - Name: OculusRemoteController_black_scaled
+    Ids:
+    - guid:
+        m_storage: 4f391b0f-78f0-f294-585d-13e6e4ddbcc4
+      fileIdentifier: 21300000
+      name: OculusRemoteController_black_scaled
+  - Name: OculusRemoteController_white
+    Ids:
+    - guid:
+        m_storage: b98b3e1f-52d8-0b34-a8c2-a7a75d3e70ec
+      fileIdentifier: 21300000
+      name: OculusRemoteController_white
+  - Name: OculusRemoteController_white_scaled
+    Ids:
+    - guid:
+        m_storage: 96d001f4-572c-a3e4-485a-62e1a049524e
+      fileIdentifier: 21300000
+      name: OculusRemoteController_white_scaled
+  - Name: ok
+    Ids:
+    - guid:
+        m_storage: 3238dca1-e9ea-9fb4-aa64-b28298ba6dbd
+      fileIdentifier: 21300000
+      name: ok
+  - Name: Placeholder
+    Ids:
+    - guid:
+        m_storage: 2adc8135-dd93-6004-db37-d5cead85f951
+      fileIdentifier: 21300000
+      name: Placeholder
+  - Name: PlayTexture
+    Ids:
+    - guid:
+        m_storage: c91313de-4a57-9684-fb5a-4d33009a2497
+      fileIdentifier: 21300000
+      name: PlayTexture
+  - Name: RecordButton
+    Ids:
+    - guid:
+        m_storage: d6cb64fe-b90e-0314-f9c6-e885fcc3d39b
+      fileIdentifier: 21300000
+      name: RecordButton
+  - Name: RecordTexture
+    Ids:
+    - guid:
+        m_storage: d867b2e3-61e9-0944-b8b1-ee90338f4350
+      fileIdentifier: 21300000
+      name: RecordTexture
+  - Name: ResetRotation
+    Ids:
+    - guid:
+        m_storage: aa45486a-0040-b094-2a3f-e77bcba4ff4c
+      fileIdentifier: 21300000
+      name: ResetRotation
+  - Name: step1
+    Ids:
+    - guid:
+        m_storage: 9ce84ff0-fdeb-13d4-a83f-077d075dd9a5
+      fileIdentifier: 21300000
+      name: step1
+  - Name: step1@2x
+    Ids:
+    - guid:
+        m_storage: affeade9-874c-f234-7abb-155e8d0db4d8
+      fileIdentifier: 21300000
+      name: step1@2x
+  - Name: step2
+    Ids:
+    - guid:
+        m_storage: cd0b17b7-1a5c-4984-28ee-91dee8a78a88
+      fileIdentifier: 21300000
+      name: step2
+  - Name: step2@2x
+    Ids:
+    - guid:
+        m_storage: 0029170d-14ce-6c04-c9f4-5c22cdae5559
+      fileIdentifier: 21300000
+      name: step2@2x
+  - Name: step3
+    Ids:
+    - guid:
+        m_storage: 69899ed1-44c8-eea4-baea-48b858b37746
+      fileIdentifier: 21300000
+      name: step3
+  - Name: step3@2x
+    Ids:
+    - guid:
+        m_storage: 36e6970b-8483-1434-a9ea-c79abd03700b
+      fileIdentifier: 21300000
+      name: step3@2x
+  - Name: stepok
+    Ids:
+    - guid:
+        m_storage: d4780dc1-205c-7c74-78c9-70d8c61d24e8
+      fileIdentifier: 21300000
+      name: stepok
+  - Name: stepok@2x
+    Ids:
+    - guid:
+        m_storage: be340a16-5cb9-c8d4-cb50-f1deeb51d4ea
+      fileIdentifier: 21300000
+      name: stepok@2x
+  - Name: StopTexture
+    Ids:
+    - guid:
+        m_storage: 375eed97-2162-2324-3984-8c636aab9117
+      fileIdentifier: 21300000
+      name: StopTexture
+  - Name: sv0
+    Ids:
+    - guid:
+        m_storage: 6344c474-9a58-54a4-fb03-3def626a8547
+      fileIdentifier: 21300000
+      name: sv0
+  - Name: sv1
+    Ids:
+    - guid:
+        m_storage: 4af5db22-4464-bf34-cb8f-dc70ee470b65
+      fileIdentifier: 21300000
+      name: sv1
+  - Name: sv10
+    Ids:
+    - guid:
+        m_storage: eabaead8-25c4-fa84-6947-4a08de620d78
+      fileIdentifier: 21300000
+      name: sv10
+  - Name: sv11
+    Ids:
+    - guid:
+        m_storage: b7c2f847-b307-3494-5a20-fd895bfd2717
+      fileIdentifier: 21300000
+      name: sv11
+  - Name: sv12
+    Ids:
+    - guid:
+        m_storage: 61438131-b4fd-ac44-6a91-f664f1770aad
+      fileIdentifier: 21300000
+      name: sv12
+  - Name: sv13
+    Ids:
+    - guid:
+        m_storage: 1520ffe2-2e03-8294-9b34-d64a73900077
+      fileIdentifier: 21300000
+      name: sv13
+  - Name: sv14
+    Ids:
+    - guid:
+        m_storage: e331c375-9dc6-afb4-086a-58238fc6934c
+      fileIdentifier: 21300000
+      name: sv14
+  - Name: sv15
+    Ids:
+    - guid:
+        m_storage: 6deea620-179c-aad4-d97d-51e0e6e03010
+      fileIdentifier: 21300000
+      name: sv15
+  - Name: sv16
+    Ids:
+    - guid:
+        m_storage: 8a0da391-9302-1fa4-cb9b-71d883d30b97
+      fileIdentifier: 21300000
+      name: sv16
+  - Name: sv17
+    Ids:
+    - guid:
+        m_storage: c82628e7-a85e-39c4-181b-8f4bbc022896
+      fileIdentifier: 21300000
+      name: sv17
+  - Name: sv18
+    Ids:
+    - guid:
+        m_storage: 3ba76ce0-e2c9-a7c4-5801-facdc7e24384
+      fileIdentifier: 21300000
+      name: sv18
+  - Name: sv19
+    Ids:
+    - guid:
+        m_storage: b866a23e-6fb7-94a4-5bb5-71ce249f1c93
+      fileIdentifier: 21300000
+      name: sv19
+  - Name: sv2
+    Ids:
+    - guid:
+        m_storage: 0ac4e434-e8bf-54a4-18c7-e6ff28cdf07b
+      fileIdentifier: 21300000
+      name: sv2
+  - Name: sv3
+    Ids:
+    - guid:
+        m_storage: 8a86432c-6c39-2234-79e7-d6b663242ae9
+      fileIdentifier: 21300000
+      name: sv3
+  - Name: sv4
+    Ids:
+    - guid:
+        m_storage: 739d0ad3-b6c1-0dc4-9b8a-45caf9002249
+      fileIdentifier: 21300000
+      name: sv4
+  - Name: sv5
+    Ids:
+    - guid:
+        m_storage: edf886be-8536-b924-8994-f01ae476fe11
+      fileIdentifier: 21300000
+      name: sv5
+  - Name: sv6
+    Ids:
+    - guid:
+        m_storage: b2c8cdd0-abb0-99e4-3b24-fe3c1944e166
+      fileIdentifier: 21300000
+      name: sv6
+  - Name: sv7
+    Ids:
+    - guid:
+        m_storage: 2e1868a1-5829-5364-59f5-d0022d6ec0b5
+      fileIdentifier: 21300000
+      name: sv7
+  - Name: sv8
+    Ids:
+    - guid:
+        m_storage: 426a1fee-d732-8674-1995-65d08aa1abe4
+      fileIdentifier: 21300000
+      name: sv8
+  - Name: sv9
+    Ids:
+    - guid:
+        m_storage: ec74779a-ec7b-9eb4-aa02-bc94fe6c78c9
+      fileIdentifier: 21300000
+      name: sv9
+  - Name: UIMask
+    Ids:
+    - guid:
+        m_storage: 00000000-0000-0000-f000-000000000000
+      fileIdentifier: 10917
+      name: UIMask
+  - Name: UISprite
+    Ids:
+    - guid:
+        m_storage: 00000000-0000-0000-f000-000000000000
+      fileIdentifier: 10905
+      name: UISprite
+  - Name: xlink
+    Ids:
+    - guid:
+        m_storage: 556a2f3b-0460-24d4-c962-1c1b4be5f0c1
+      fileIdentifier: 21300000
+      name: xlink

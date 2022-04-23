@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2075233327568154001
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5551825591764323738}
+  - component: {fileID: 365212278605031287}
+  - component: {fileID: 5198222261444836057}
+  - component: {fileID: 8221593321889501243}
+  - component: {fileID: 2944205599494137876}
+  - component: {fileID: 1872433178706404827}
+  m_Layer: 0
+  m_Name: SpectatorViewSettings
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5551825591764323738
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2075233327568154001}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &365212278605031287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2075233327568154001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98b6067df2adcbd4c977f3d14b77239c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  automaticallyBroadcastAllGameObjects: 0
+  forcePerformanceReporting: 0
+  forceLoadAllAssetsDuringInitialization: 0
+--- !u!114 &5198222261444836057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2075233327568154001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ec336b47b3a517468767a9a595153e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  prioritizedInitializers:
+  - {fileID: 1872433178706404827}
+--- !u!114 &8221593321889501243
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2075233327568154001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7b4d5c48f786a54fb34ca53054971cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enableMobileRecordingService: 1
+  overrideMobileRecordingServiceVisualPrefab: {fileID: 0}
+--- !u!114 &2944205599494137876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2075233327568154001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f9490c8de72d2d44ac469f8bf46fb39, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  overrideConnectionManagerPrefab: {fileID: 0}
+  enableMobileNetworkConfigurationVisual: 1
+  overrideMobileNetworkConfigurationVisualPrefab: {fileID: 0}
+--- !u!114 &1872433178706404827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2075233327568154001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b31b38d11c2c8dc4487ec945d77e000c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  configuration:
+    AccountDomain: southeastasia.mixedreality.azure.com
+    AccountId: f26b2c2f-5f0f-4e65-9a49-e3c6865c3f9b
+    AccountKey: pyF8MiLqhq/Q6wXrTWCqqIsz5FX2BuIwK/xICNskb1s=
+    AccessToken: 
+    AuthenticationToken: 
